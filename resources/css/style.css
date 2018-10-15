@@ -34,3 +34,18 @@ p {
 font-family: Helvetica;
 font-size: 14px;
 }
+
+.copywrite {
+  text-align: left;
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+
+.designed {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
