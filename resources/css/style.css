@@ -2,10 +2,15 @@ h1 {
 font-family: Helvetica;
 font-size: 70px;
 font-weight: bold;
-color: blue;
+color: White;
 text-align: Center;
 }
 
-body {
-  text-align: center;
+html {
+text-align: center;
+}
+
+ul {
+list-style: none;
+text-align: center;
 }
