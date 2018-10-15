@@ -4,6 +4,7 @@ font-size: 70px;
 font-weight: bold;
 color: White;
 text-align: Center;
+background-image: url("images/the-flatiron-building.png");
 }
 
 html {
