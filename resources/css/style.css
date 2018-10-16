@@ -5,6 +5,8 @@ font-weight: bold;
 color: White;
 text-align: Center;
 background-image: url("../../images/the-flatiron-building.png");
+background-repeat: no-repeat;
+background-size: cover;
 }
 
 html {
@@ -13,7 +15,7 @@ text-align: center;
 }
 
 nav {
-list-style: none;
+list-style-type: none;
 text-align: center;
 font-family: Helvetica;
 font-size: 18px;
