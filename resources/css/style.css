@@ -58,3 +58,8 @@ font-size: 14px;
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+a {
+font-family: Helvetica;
+font-size: 18px;
+}
